@@ -26,7 +26,7 @@ Given HTML, CSS and Stater JavaScript we were told to create a ranodom password 
 
 ## Screenshot 
 
-![screenshot](.\develop\images/capture.png)
+![screenshot](.\assets\images/capture.png)
 
 
 
